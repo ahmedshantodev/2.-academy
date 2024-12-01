@@ -1,5 +1,4 @@
 import FeaturedCourses from "@/components/section/FeaturedCourses";
-import Footer from "@/components/section/Footer";
 import HeroSection from "@/components/section/HeroSection";
 import OurMentors from "@/components/section/OurMentors";
 import UpcomingSeminers from "@/components/section/UpcomingSeminers";

@@ -15,7 +15,7 @@ export default function HeroSection() {
         <div>
           <h1
             className={cn(
-              "flex flex-col lg:flex-row justify-center gap-x-0 md:gap-x-3 items-center relative z-20 mt-20 md:mt-24 text-2xl md:text-[33px] md:leading-[2.5rem] xl:text-6xl font-bold dark:text-white"
+              `flex flex-col lg:flex-row justify-center gap-x-0 md:gap-x-3 items-center relative z-20 mt-20 md:mt-24 text-2xl md:text-[33px] md:leading-[2.5rem] xl:text-6xl font-bold dark:text-white`
             )}
           >
             Master the art of <FlipWords words={words} />

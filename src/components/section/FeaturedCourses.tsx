@@ -12,7 +12,7 @@ const FeaturedCourses = () => {
     description: string;
     price: number;
     instructor: string;
-    isFeatured: Boolean;
+    isFeatured: boolean;
     image: string;
   }
 

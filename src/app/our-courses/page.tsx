@@ -12,7 +12,7 @@ const page = () => {
     description: string;
     price: number;
     instructor: string;
-    isFeatured: Boolean;
+    isFeatured: boolean;
     image: string;
   }
   

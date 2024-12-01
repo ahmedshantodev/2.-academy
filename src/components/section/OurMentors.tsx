@@ -134,7 +134,7 @@ const OurMentors = () => {
           ) : null}
         </AnimatePresence>
         <ul className="mx-auto w-full grid grid-cols-1 md:grid-cols-3 items-start gap-4">
-          {mentors.map((card, index) => (
+          {mentors.map((card) => (
             <motion.div
               layoutId={`card-${card.title}-${id}`}
               key={card.title}
